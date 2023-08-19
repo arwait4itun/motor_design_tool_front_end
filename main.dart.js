@@ -79384,7 +79384,7 @@ s=d.c.C(s).f
 p=d.at.a.a
 o=B.eM.tJ(5)
 n=t.N
-s=A.er(A.d2(A.b([q,A.K(c,A.fP(A.asf(new A.ale(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.alf(),"http://16.170.240.12/dxf?project_name="+p+"&idx="+o,new A.alg()),B.f,1,c,B.T),c,c,c,r.a.b*0.7,c,c,c,s.a.a*0.5)],t.p),B.r,B.bC,B.t),c,c,B.G)}return s},
+s=A.er(A.d2(A.b([q,A.K(c,A.fP(A.asf(new A.ale(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.alf(),"https://16.170.240.12/dxf?project_name="+p+"&idx="+o,new A.alg()),B.f,1,c,B.T),c,c,c,r.a.b*0.7,c,c,c,s.a.a*0.5)],t.p),B.r,B.bC,B.t),c,c,B.G)}return s},
 a0Y(){var s,r,q,p,o,n,m=this,l=null
 if(m.z==null)s=A.K(l,l,l,l,l,l,l,l,l,l)
 else{s=t.w
@@ -79398,7 +79398,7 @@ s=m.c.C(s).f
 p=m.at.a.a
 o=B.eM.tJ(5)
 n=t.N
-s=A.er(A.d2(A.b([q,A.K(l,A.fP(A.asf(new A.alk(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.all(),"http://16.170.240.12/winding?project_name="+p+"&idx="+o,new A.alm()),B.f,1,l,B.T),l,l,l,r.a.b*0.7,l,l,l,s.a.a*0.5)],t.p),B.r,B.bC,B.t),l,l,B.G)}return s},
+s=A.er(A.d2(A.b([q,A.K(l,A.fP(A.asf(new A.alk(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.all(),"https://16.170.240.12/winding?project_name="+p+"&idx="+o,new A.alm()),B.f,1,l,B.T),l,l,l,r.a.b*0.7,l,l,l,s.a.a*0.5)],t.p),B.r,B.bC,B.t),l,l,B.G)}return s},
 a0W(){var s,r,q,p,o,n,m=this,l=null
 if(m.z==null)s=A.K(l,l,l,l,l,l,l,l,l,l)
 else{s=t.w
@@ -79410,7 +79410,7 @@ s=m.c.C(s).f
 p=m.at.a.a
 o=B.eM.tJ(5)
 n=t.N
-s=A.er(A.cw(A.b([q,A.K(l,A.fP(A.asf(new A.alh(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.ali(),"http://16.170.240.12/flux_density?project_name="+p+"&idx="+o,new A.alj()),B.f,1,l,B.T),l,l,l,r.a.b*0.7,l,l,l,s.a.a*0.5)],t.p),B.r,B.z,B.t),l,l,B.G)}return s},
+s=A.er(A.cw(A.b([q,A.K(l,A.fP(A.asf(new A.alh(),A.aN(["Access-Control-Allow-Origin","*","Accept","*/*"],n,n),new A.ali(),"https://16.170.240.12/flux_density?project_name="+p+"&idx="+o,new A.alj()),B.f,1,l,B.T),l,l,l,r.a.b*0.7,l,l,l,s.a.a*0.5)],t.p),B.r,B.z,B.t),l,l,B.G)}return s},
 a0T(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b="Length (mm)",a="|B| Tesla"
 if(a0==null)return A.K(c,c,c,c,c,c,c,c,c,c)
 s=t.Ol
@@ -79858,13 +79858,13 @@ b5===$&&A.a()
 b6=t.N
 m=A.aN(["file_name",f,"peak_torque",e,"peak_speed",d,"current_limit_i_ph",c,"voltage_limit",b,"r_ag",a,"trv",a0,"ag",a1,"no_of_poles",a2,"no_of_slots",a3,"fill_factor",a4,"wire_diameter",a5,"tooth_depth_factor",a6,"fin_area_factor",a7,"housing_by_stacklength_ratio",a8,"pole_arc",a9,"external_htc",b0,"ambient_temperature",b1,"motor_speed_rpm",2000,"motor_torque",8,"assumed_slot_width_ratio",0.5,"assumed_winding_temp",158,"magnet",b2,"steel",b3,"wire",b4,"topology",h.R8.h(0,b5)],b6,t.z)
 l=B.aX.jz(m)
-b5=A.kx("http://16.170.240.12/motorwiz")
+b5=A.kx("https://16.170.240.12/motorwiz")
 b4=A.aN(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],b6,b6)
 s=9
 return A.Z(A.aCf(b5,l,A.asC("JSON"),b4),$async$$0)
 case 9:k=c0
 s=10
-return A.Z(A.aPI(A.kx("http://16.170.240.12/ag_plot?project_name="+g.a.a),A.aN(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],b6,b6)),$async$$0)
+return A.Z(A.aPI(A.kx("https://16.170.240.12/ag_plot?project_name="+g.a.a),A.aN(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],b6,b6)),$async$$0)
 case 10:j=c0
 b6=k
 h.z=B.aX.dF(0,A.auD(A.aub(b6.e).c.a.h(0,"charset")).dF(0,b6.w))
@@ -80053,9 +80053,9 @@ s=q}while(true)switch(s){case 0:q=3
 j=t.N
 n=A.aN(["filename",o.ok.a.a,"gvw",A.bb(o.CW.a.a),"gear_ratio",A.bb(o.cx.a.a),"wheel_radius",A.bb(o.cy.a.a),"frontal_area",A.bb(o.db.a.a),"cd",A.bb(o.dx.a.a),"rolling_resistance_coeff",A.bb(o.dy.a.a),"gear_efficiency",A.bb(o.fr.a.a),"rated_speed_kmph_at_5deg",A.bb(o.fx.a.a),"max_speed",A.bb(o.fy.a.a),"gradeability",A.bb(o.go.a.a),"time_to_cross_grade_from_rest",A.bb(o.id.a.a),"length_of_grade",A.bb(o.k1.a.a),"acceleration_from_rest_to_speed",A.bb(o.k2.a.a),"time_to_accelerate",A.bb(o.k3.a.a),"v_dc",A.bb(o.k4.a.a)],j,t.z)
 m=A.aN(["Content-Type","Application/json; charset=UTF-8","Access-Control-Allow-Origin","*","Accept","*/*"],j,j)
-A.kx("http://16.170.240.12/vehicle_dynamics")
+A.kx("https://16.170.240.12/vehicle_dynamics")
 s=6
-return A.Z(A.aCf(A.kx("http://16.170.240.12/vehicle_dynamics"),B.aX.jz(n),null,m),$async$vW)
+return A.Z(A.aCf(A.kx("https://16.170.240.12/vehicle_dynamics"),B.aX.jz(n),null,m),$async$vW)
 case 6:l=b
 j=l
 o.y=B.aX.dF(0,A.auD(A.aub(j.e).c.a.h(0,"charset")).dF(0,j.w))
