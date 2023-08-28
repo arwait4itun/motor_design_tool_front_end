@@ -78796,7 +78796,7 @@ b1===$&&A.a()
 b2=t.N
 m=A.aO(["file_name",i,"peak_torque",h,"peak_speed",g,"current_limit_i_ph",f,"voltage_limit",e,"bridge_thickness",d,"trv",c,"ag",b,"no_of_poles",a,"no_of_slots",a0,"fill_factor",a1,"wire_diameter",a2,"tooth_depth_factor",a3,"fin_area_factor",a4,"housing_by_stacklength_ratio",a5,"external_htc",a6,"ambient_temperature",a7,"motor_speed_rpm",2000,"motor_torque",8,"assumed_slot_width_ratio",0.5,"assumed_winding_temp",158,"magnet",a8,"steel",a9,"wire",b0,"topology",b4.k1.h(0,b1)],b2,t.z)
 l=B.b6.jn(m)
-b1=A.qd("http://16.170.240.12/motorwiz")
+b1=A.qd("https://motormojo.in//motorwiz")
 b2=A.aO(["Access-Control-Allow-Origin","*","Content-Type","application/json","Accept","*/*"],b2,b2)
 s=9
 return A.am(A.aAs(b1,l,A.aqT("JSON"),b2),$async$$0)
@@ -78980,9 +78980,9 @@ s=q}while(true)switch(s){case 0:q=3
 j=t.N
 n=A.aO(["filename",o.ok.a.a,"gvw",A.bf(o.CW.a.a),"gear_ratio",A.bf(o.cx.a.a),"wheel_radius",A.bf(o.cy.a.a),"frontal_area",A.bf(o.db.a.a),"cd",A.bf(o.dx.a.a),"rolling_resistance_coeff",A.bf(o.dy.a.a),"gear_efficiency",A.bf(o.fr.a.a),"rated_speed_kmph_at_5deg",A.bf(o.fx.a.a),"max_speed",A.bf(o.fy.a.a),"gradeability",A.bf(o.go.a.a),"time_to_cross_grade_from_rest",A.bf(o.id.a.a),"length_of_grade",A.bf(o.k1.a.a),"acceleration_from_rest_to_speed",A.bf(o.k2.a.a),"time_to_accelerate",A.bf(o.k3.a.a),"v_dc",A.bf(o.k4.a.a)],j,t.z)
 m=A.aO(["Content-Type","Application/json; charset=UTF-8","Access-Control-Allow-Origin","*","Accept","*/*"],j,j)
-A.qd("http://16.170.240.12/vehicle_dynamics")
+A.qd("https://motormojo.in//vehicle_dynamics")
 s=6
-return A.am(A.aAs(A.qd("http://16.170.240.12/vehicle_dynamics"),B.b6.jn(n),null,m),$async$vl)
+return A.am(A.aAs(A.qd("https://motormojo.in//vehicle_dynamics"),B.b6.jn(n),null,m),$async$vl)
 case 6:l=b
 j=l
 o.y=B.b6.e1(0,A.azI(A.ayo(j.e).c.a.h(0,"charset")).e1(0,j.w))
