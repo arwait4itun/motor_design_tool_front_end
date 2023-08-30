@@ -78287,7 +78287,7 @@ l=t.p
 r=A.M(j,A.cB(A.b([A.axr(A.cB(A.b([o,p,A.M(j,k.a5z(),j,j,j,n.a.b,j,j,j,m.a.a*0.24)],l),B.q,B.e_,B.r),r),A.dg(k.a5y(),j,j)],l),B.q,B.x,B.r),B.bG,j,j,j,j,j,j,j)
 m=k.c.C(q).f
 q=k.c.C(q).f
-l=A.arv(j,A.aru(A.cB(A.b([s,r,A.M(j,A.dQ(A.ci(A.b([A.M(j,A.dg(A.a6("Motor Design Tool",j,j,j,j,A.a_(j,j,j,j,j,j,j,j,j,j,j,20,j,j,B.k,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),j,j),B.f,j,j,m.a.b*0.06,j,j,j,q.a.a),k.a5A()],l),B.dC,B.bE,B.r)),j,j,j,j,j,j,j,j)],l),B.q,B.x,B.r),!0),!0)
+l=A.arv(j,A.aru(A.cB(A.b([s,r,A.M(j,A.dQ(A.ci(A.b([A.M(j,A.dg(A.a6("Motor Mojo",j,j,j,j,A.a_(j,j,j,j,j,j,j,j,j,j,j,20,j,j,B.k,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),j,j),B.f,j,j,m.a.b*0.06,j,j,j,q.a.a),k.a5A()],l),B.dC,B.bE,B.r)),j,j,j,j,j,j,j,j)],l),B.q,B.x,B.r),!0),!0)
 s=l}return s},
 a5w(){return A.avW(B.nV,B.pf,-1,this.c.C(t.w).f.a.a*0.035,new A.ajR(this),1,A.ava(A.rY(B.oV,B.B,null),new A.ajS(this),null))},
 a5y(){var s,r=this,q=null,p=t.w,o=r.c.C(p).f
@@ -78888,7 +78888,7 @@ i=h.c.C(d).f
 e=A.M(g,A.cB(A.b([A.axr(A.cB(A.b([b,c,A.M(g,h.a4N(),g,g,g,s.a.b,g,g,g,i.a.a*0.24)],j),B.q,B.e_,B.r),e),A.dg(h.a4r(),g,g)],j),B.q,B.x,B.r),B.bG,g,g,g,g,g,g,g)
 i=h.c.C(d).f
 d=h.c.C(d).f
-return A.arv(g,A.aru(A.cB(A.b([f,e,A.M(g,A.dQ(A.ci(A.b([A.M(g,A.dg(A.a6("Motor Design Tool",g,g,g,g,A.a_(g,g,g,g,g,g,g,g,g,g,g,20,g,g,B.k,g,g,!0,g,g,g,g,g,g,g,g),g,g,g),g,g),B.f,g,g,i.a.b*0.06,g,g,g,d.a.a),h.a9R()],j),B.dC,B.bE,B.r)),g,g,g,g,g,g,g,g)],j),B.q,B.x,B.r),!0),!0)},
+return A.arv(g,A.aru(A.cB(A.b([f,e,A.M(g,A.dQ(A.ci(A.b([A.M(g,A.dg(A.a6("Motor Mojo",g,g,g,g,A.a_(g,g,g,g,g,g,g,g,g,g,g,20,g,g,B.k,g,g,!0,g,g,g,g,g,g,g,g),g,g,g),g,g),B.f,g,g,i.a.b*0.06,g,g,g,d.a.a),h.a9R()],j),B.dC,B.bE,B.r)),g,g,g,g,g,g,g,g)],j),B.q,B.x,B.r),!0),!0)},
 a_U(){return A.avW(B.nV,B.pf,-1,this.c.C(t.w).f.a.a*0.035,null,0,A.ava(A.rY(B.oV,B.B,null),new A.an9(this),null))},
 a4r(){var s,r=this,q=null,p=t.w,o=r.c.C(p).f
 p=r.c.C(p).f
