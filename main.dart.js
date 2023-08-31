@@ -78967,7 +78967,7 @@ f=A.dP(B.aj,1)
 d=A.hi(10)
 c=a.z?B.d2:B.T
 b=t.p
-return A.ep(A.ci(A.b([A.ci(A.b([a3,s,r,q,p,o,n,m,l,k,i,j,h,g,A.M(a0,A.zc(A.a6("MOTORWIZ",a0,a0,a0,a0,A.a_(a0,a0,B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.k,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),new A.ann(a)),a0,a0,new A.bG(c,a0,f,d,a0,a0,B.A),e.a.b*0.05,a0,a0,a0,a1.a.a/8)],b),B.q,B.x,B.r)],b),B.q,B.x,B.r),a0,a0,B.a0)},
+return A.ep(A.ci(A.b([A.ci(A.b([a3,s,r,q,p,o,n,m,l,k,i,j,h,g,A.M(a0,A.zc(A.a6("MOTOR WIZ",a0,a0,a0,a0,A.a_(a0,a0,B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,B.k,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0,a0),new A.ann(a)),a0,a0,new A.bG(c,a0,f,d,a0,a0,B.A),e.a.b*0.05,a0,a0,a0,a1.a.a/8)],b),B.q,B.x,B.r)],b),B.q,B.x,B.r),a0,a0,B.a0)},
 fo(a,b){var s,r,q,p=null,o=A.a6(a,p,p,p,p,A.a_(p,p,B.f,p,p,p,p,p,p,p,p,p,p,p,B.k,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),n=A.dQ(A.M(p,p,p,p,p,p,p,p,p,p)),m=t.w,l=this.c.C(m).f
 m=this.c.C(m).f
 s=A.dP(B.aj,1)
