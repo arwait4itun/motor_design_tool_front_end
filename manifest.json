@@ -1,11 +1,11 @@
 {
-    "name": "mdt_frontend",
-    "short_name": "mdt_frontend",
+    "name": "motor_design_tool",
+    "short_name": "motor_design_tool",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "motor design tool front end",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
