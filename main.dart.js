@@ -87833,7 +87833,7 @@ $1(a){var s=null
 return A.t(s,s,s,s,s,s,s,s,s,s)},
 $S:473}
 A.Oq.prototype={
-J(a){return new A.AC(new A.kU("kannan@motorz.in","http://127.0.0.1:5000",null),"PiCAD Motr",$.aLv(),!1,null)}}
+J(a){return new A.AC(new A.kU("kannan@motorz.in","https://motormojo.in",null),"PiCAD Motr",$.aLv(),!1,null)}}
 A.jp.prototype={
 aj(){return new A.WI(B.m)}}
 A.WI.prototype={
