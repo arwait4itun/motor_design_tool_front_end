@@ -90061,7 +90061,7 @@ a0===$&&A.a()
 a0=a0==="IPMSM RADIAL"?A.a9("Ld : "+s+" \xb5H",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a):A.a9("L : "+s+" \xb5H",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)
 h=b.z==="IPMSM RADIAL"?A.a9("Lq : "+r+" \xb5H",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a):A.t(a,a,a,a,a,a,a,a,a,a)
 g=t.p
-h=A.br(A.b([a0,h,A.a9("\u03a8m : "+q+" Wb",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a),A.a9("Back EMF : "+A.h(a4)+" V",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)],g),B.j,B.Z,B.h)
+h=A.br(A.b([a0,h,A.a9("\u03a8m : "+q+" Wb",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a),A.a9("V(Line to Line) RMS : "+A.h(a4)+" V",a,a,a,a,A.Y(a,a,a,a,a,a,a,a,a,a,a,a,a,a,B.l,a,a,!0,a,a,a,a,a,a,a,a),a,a,a)],g),B.j,B.Z,B.h)
 a0=b.pC("Torque Vs Speed",new A.E0(o,a),1)
 f=b.pC("Efficiency Plot",new A.zl(j,a),2)
 e=b.pC("Thermal Plot",new A.DO(i,a),3)
@@ -90821,7 +90821,7 @@ var $async$yw=A.a2(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 g=o.a
 f=t.N
-n=A.ai(["email",g.c,"vehicle_name",g.d,"gvw",A.av(o.r.a.a),"gear_ratio",A.av(o.w.a.a),"wheel_radius",A.av(o.x.a.a),"frontal_area",A.av(o.y.a.a),"cd",A.av(o.z.a.a),"rolling_resistance_coeff",A.av(o.Q.a.a),"gear_efficiency",A.av(o.as.a.a),"rated_speed_kmph",A.av(o.at.a.a),"continuous gradient",A.av(o.ax.a.a),"max_speed",A.av(o.ay.a.a),"gradeability",A.av(o.ch.a.a),"time_to_cross_grade_from_rest",A.av(o.CW.a.a),"length_of_grade",A.av(o.cx.a.a),"acceleration_from_rest_to_speed",A.av(o.cy.a.a),"time_to_accelerate",A.av(o.db.a.a),"v_dc",A.av(o.dx.a.a)],f,t.z)
+n=A.ai(["email",g.c,"vehicle_name",g.d,"gvw",A.av(o.r.a.a),"gear_ratio",A.av(o.w.a.a),"wheel_radius",A.av(o.x.a.a),"frontal_area",A.av(o.y.a.a),"cd",A.av(o.z.a.a),"rolling_resistance_coeff",A.av(o.Q.a.a),"gear_efficiency",A.av(o.as.a.a),"rated_speed_kmph",A.av(o.at.a.a),"continuous_gradient",A.av(o.ax.a.a),"max_speed",A.av(o.ay.a.a),"gradeability",A.av(o.ch.a.a),"time_to_cross_grade_from_rest",A.av(o.CW.a.a),"length_of_grade",A.av(o.cx.a.a),"acceleration_from_rest_to_speed",A.av(o.cy.a.a),"time_to_accelerate",A.av(o.db.a.a),"v_dc",A.av(o.dx.a.a)],f,t.z)
 m=A.ai(["Content-Type","Application/json; charset=UTF-8","Access-Control-Allow-Origin","*","Accept","*/*"],f,f)
 A.e2(o.a.e+"/vehicle_dynamics")
 s=6
@@ -91427,7 +91427,7 @@ m.z.saN(0,J.az(J.m(k.h(l,r),"cd")))
 m.Q.saN(0,J.az(J.m(k.h(l,r),"rolling_resistance_coeff")))
 m.as.saN(0,J.az(J.m(k.h(l,r),"gear_efficiency")))
 m.at.saN(0,J.az(J.m(k.h(l,r),"rated_speed_kmph")))
-m.ax.saN(0,J.az(J.m(k.h(l,r),"continuous gradient")))
+m.ax.saN(0,J.az(J.m(k.h(l,r),"continuous_gradient")))
 m.ay.saN(0,J.az(J.m(k.h(l,r),"max_speed")))
 m.ch.saN(0,J.az(J.m(k.h(l,r),"gradeability")))
 m.CW.saN(0,J.az(J.m(k.h(l,r),"time_to_cross_grade_from_rest")))
